@@ -6,8 +6,8 @@ Setting up your development environment on your local machine. Kindly follow the
 
 ```bash
 
-$ git clone https://bitbucket.org/rajeshr22/saloodo.git
-$ cd saloodo
+$ git clone https://github.com/rajeshwws/lumen-product-management-.git
+$ cd product-management
 $ cp .env.example .env
 $ composer install
 
