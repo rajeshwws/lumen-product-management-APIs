@@ -25,7 +25,7 @@ Modify the `.env` file and update database detail.
 
 Setup your local environment with Nginx and Nginx configuration file is present in root directory. 
 
-After setting up, you can access the application via [http://saloodo.local](http://saloodo.local).
+After setting up, you can access the application via [http://lumen.local](http://lumen.local).
 
 
 ## Before starting
@@ -67,7 +67,7 @@ Then, you can use this token in Authorization header :
 ```bash
 
 # Authorization Header
-curl --header "Authorization: your_private_token_here" http://saloodo.local/api/posts
+curl --header "Authorization: your_private_token_here" http://lumen.local/api/posts
 ```
 All API endpoints are prefixed by ```api```.
 
