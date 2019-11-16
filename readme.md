@@ -1,6 +1,15 @@
 
 ## Installation
 
+This is a simplified prototype app that provide a set of rest interfaces to perform product management actions by admins and can also enable customers place orders on the products.
+
+The Project is based in Laravel-Lumen . The reason for this is that Lumen is based in Symfony components and they share the same architectural design, concepts and patterns.
+
+Beside Laravel-lumen, this project uses other tools like:
+
+    Redis
+ 
+
 
 Setting up your development environment on your local machine. Kindly follow the below instruction 
 
